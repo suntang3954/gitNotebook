@@ -12,7 +12,7 @@ In China Suzhou
  git config --global http.sslVerify "false"
  
  让后使用git init 初始化
- 
- 以上方法测试有效。
+  以上方法测试有效。
+  
  -------------------------------------------
  
